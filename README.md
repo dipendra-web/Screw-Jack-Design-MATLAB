@@ -21,10 +21,6 @@ This project is a user input–based MATLAB program developed for the design and
 - MATLAB source code (.m)
 - Output screenshots
 
-## Sample Output
-
-![Design Output](design_input_output.png)
-
 ## Developed Using
 - MATLAB
 - Machine Design Principles
